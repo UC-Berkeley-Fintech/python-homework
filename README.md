@@ -14,7 +14,8 @@ The Python script in **PyBank** folder analyzes the records from `budget_data.cs
 * The greatest decrease in losses (date and amount) over the entire period.
 
 ## Sample Output
-```Financial Analysis
+```
+Financial Analysis
 -----------------------------
 Total Months: 86
 Total: $38382578
